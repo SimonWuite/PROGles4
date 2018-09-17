@@ -4,3 +4,4 @@ salaris = uurloon * aantaluurgewerkt
 print (f"{aantaluurgewerkt} uur werken levert {salaris} Euro op!")
 # test voor git
 # weer nieuwe git commit test
+# nando 
